@@ -4,6 +4,7 @@ A novel approach to document search and retrieval using hierarchical tree struct
 
 ---
 
+
 ## ⚖️ Traditional Vector RAG vs. PageIndex (Vectorless RAG)
 
 ![Traditional Vector RAG vs. PageIndex](Gemini_Generated_Image_6rkr3i6rkr3i6rkr.png)
